@@ -83,7 +83,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Flutter calculator"),
+        title: const Text("Flutter Calculator"),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.end,
